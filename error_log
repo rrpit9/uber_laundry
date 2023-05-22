@@ -1,0 +1,11 @@
+[29-Jan-2022 11:48:21 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/doorbnig/public_html/laundry/application/controllers/API/Api.php on line 208
+[12-Feb-2022 10:58:49 America/Chicago] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[12-Feb-2022 11:02:27 America/Chicago] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[12-Feb-2022 11:02:53 America/Chicago] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[16-Feb-2022 04:02:09 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home4/doorbnig/public_html/laundry/application/controllers/API/ApiVendor.php on line 394
+[16-Feb-2022 04:02:19 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home4/doorbnig/public_html/laundry/application/controllers/API/ApiVendor.php on line 394
+[16-Feb-2022 04:02:35 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home4/doorbnig/public_html/laundry/application/controllers/API/ApiVendor.php on line 394
+[16-Feb-2022 04:03:42 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home4/doorbnig/public_html/laundry/application/controllers/API/ApiVendor.php on line 394
+[01-Mar-2022 01:16:16 America/Chicago] PHP Fatal error:  Cannot redeclare ApiVendor::laundry_get_product() in /home4/doorbnig/public_html/laundry/application/controllers/API/ApiVendor.php on line 2061
+[01-Mar-2022 01:16:29 America/Chicago] PHP Fatal error:  Cannot redeclare ApiVendor::laundry_get_product() in /home4/doorbnig/public_html/laundry/application/controllers/API/ApiVendor.php on line 2061
+[15-Jul-2022 01:11:17 America/Chicago] PHP Deprecated:  Required parameter $folder follows optional parameter $tag in /home4/doorbnig/public_html/laundry/application/helpers/admin_helper.php on line 1011
