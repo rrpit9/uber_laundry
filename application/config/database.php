@@ -76,8 +76,8 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'password',	
+	'username' => 'uber_laundry',
+	'password' => 'uber_password',	
 	'database' => 'uber_laundry',
 	'dbdriver' => 'mysqli',
 	
